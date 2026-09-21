@@ -79,18 +79,6 @@ me = AIEngineer()
 
 ---
 
-## **Contribution Graph**
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0a0e27&color=22d3ee&line=38bdf8&point=67e8f9&hide_border=true" />
-</p>
-
-</div>
-
----
-
 ## **Activity Radar**
 
 <div align="center">
@@ -111,24 +99,6 @@ me = AIEngineer()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ndubuisi-Godcares)
 
 <br>
-
-##### **Open to Research Collaborations & Opportunities**
-
-</div>
-
-<div align="center">
-
-### **Philosophy**
-
-> **"Opportunities are intertwined with risks; I choose to embrace the risk and pursue it all."**
-> 
-> *— Godcares Ndubuisi*
-
-<br>
-
-**⚡ "Building the future, one neural network at a time" ⚡**
-
-</div>
 
 <!-- 3D Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
