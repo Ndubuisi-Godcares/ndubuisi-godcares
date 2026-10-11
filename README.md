@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=$+init_ai_system();$+train_rl_agent();$+optimize_llm_pipeline();$+deploy_intelligent_system();$+applied_ai_research();" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ndubuisi-Godcares&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
 </div>
 
 <p align="center">
